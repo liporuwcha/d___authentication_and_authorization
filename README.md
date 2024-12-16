@@ -2,11 +2,10 @@
 
 ***liporuwcha namespace "d - authentication and authorization"***
 
- ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
- ![liporuwcha](https://bestia.dev/webpage_hit_counter/get_svg_image/000.svg)
+ ![d_authentication_and_authorization](https://bestia.dev/webpage_hit_counter/get_svg_image/1305741393.svg)
 
 ## d - authentication and authorization
 
