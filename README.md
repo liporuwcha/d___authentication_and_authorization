@@ -1,19 +1,19 @@
-# d_authentication_and_authorization
+# d___authentication_and_authorization
 
-***liporuwcha namespace "d - authentication and authorization"***
+***liporuwcha namespace "d___ authentication and authorization"***
 
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
  ![d_authentication_and_authorization](https://bestia.dev/webpage_hit_counter/get_svg_image/1305741393.svg)
 
-## d - authentication and authorization
+## d___ authentication and authorization
 
 Nothing serious cannot be done without authentication and authorization.
 
-da - authentication
+da__ authentication
 
-dj - authorization
+dj__ authorization
 
 ## Open-source and free as a beer
 
