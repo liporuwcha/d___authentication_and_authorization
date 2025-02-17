@@ -5,6 +5,7 @@
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![d_authentication_and_authorization](https://bestia.dev/webpage_hit_counter/get_svg_image/1305741393.svg)
 
 ## d___ authentication and authorization
